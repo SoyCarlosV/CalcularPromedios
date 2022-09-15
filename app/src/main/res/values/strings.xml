@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calcular Promedios </string>
+
+    <string name="etNotaI">Nota de I</string>
+    <string name="etNotaII">Nota de II</string>
+    <string name="etNotaIII">Nota de III</string>
+    <string name="btnPromediar">Promediar</string>
+</resources>
